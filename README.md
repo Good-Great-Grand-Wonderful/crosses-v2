@@ -1,6 +1,6 @@
 <img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/99ac6454-0d78-41a0-ad68-f4d0b87296da" />
 
-A modular ergonomic columar staggered keyboard by Good Great Grand Wonderful LLC. 
+A modular ergonomic columar staggered keyboard that's available in 36, 42, and 54 key layouts. Created by Good Great Grand Wonderful LLC. 
 
 Made with a precise trackball sensor. Eliminating the need to have another pointing device, everything is within reach.
 
