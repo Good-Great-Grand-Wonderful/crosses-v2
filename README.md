@@ -15,4 +15,4 @@ Available at http://ergokeyboards.com
 - Dual trackballs
 
 ### Firmware
-[Releases]([Releases](https://github.com/Good-Great-Grand-Wonderful/crosses-v2/releases)
+[Releases](https://github.com/Good-Great-Grand-Wonderful/crosses-v2/releases)
