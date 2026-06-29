@@ -9,7 +9,7 @@ Available at http://ergokeyboards.com
 ### Features
 
 - Matrix with a thumb cluster that works better with our opposable thumbs!
-- Advanced 4 layer built in NRF improves stability, and drastically simplifies soldering
+- Advanced 4 layer PCB with built in NRF52840 improves stability, and drastically simplifies soldering
 - Main matrix layouts of: 3x5, 3x6, and 4x6
 - Kailh Choc hotswap sockets, so you can explore and find your perfect switch
 - Dual trackballs
