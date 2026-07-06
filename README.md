@@ -14,5 +14,8 @@ Available at http://ergokeyboards.com
 - Kailh Choc hotswap sockets, so you can explore and find your perfect switch
 - Dual trackballs
 
+### Documentation
+[Build guides, firmware help, and trackball tuning](https://wiki.ergokeyboards.com)
+
 ### Firmware
 [Releases](https://github.com/Good-Great-Grand-Wonderful/crosses-v2/releases)
